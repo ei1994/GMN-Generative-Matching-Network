@@ -1,6 +1,6 @@
 ## GMN-Generative-Matching-Network
 **paper：Deep Generative Matching Network for Optical and SAR Image Registration（IEEE GARSS 2018已发表（7.26））**      
-    [IGARSS论文](https://www.igarss2018.org/Papers/viewpapers.asp?papernum=1277 "IGARSS")    
+    [IGARSS会议论文](https://www.igarss2018.org/Papers/viewpapers.asp?papernum=1277 "IGARSS")    
 **patent：基于深度卷积GAN的光学和SAR图像配准方法（申请号：201810276562.7）**
 
 ## 创新点：
